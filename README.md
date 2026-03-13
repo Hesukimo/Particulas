@@ -1,3 +1,5 @@
+CONTROLES: Pulsar espacio para generar partículas
+
 Clase Particle:
 
  - Se inicializa con un ángulo, una velocidad, un tiempo de vida máximo y una gravedad. Un contador interno también cuenta el tiempo que lleva viva.
